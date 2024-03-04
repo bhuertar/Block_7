@@ -13,5 +13,5 @@ const numOne = 100 / 10;
 const numTwo = 20+20;
 const numThree = 40-1;
 
-// Created an alert 
+// Created an alert with values of the vault message and vault numbers
 alert(vaultMessage + " " + numOne + "-" + numTwo + "-" + numThree);
